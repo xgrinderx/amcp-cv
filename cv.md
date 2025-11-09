@@ -5,7 +5,7 @@
 -Basic knowledge of a programming language, have completed several online training courses and books: C++, Python
 
 -Languages:
-    - Russian (native)
-    - English (B1)
+    * Russian (native)
+    * English (B1)
     
 -Contacts: ruslan.xolierov@mail.ru
