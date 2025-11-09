@@ -4,7 +4,7 @@
 
 -Basic knowledge of a programming language, have completed several online training courses and books: C++, Python
 
--Languages
+Languages:
     - Russian (native)
     - English (B1)
     
